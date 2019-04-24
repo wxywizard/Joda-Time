@@ -7,7 +7,7 @@ import java.util.Date;
 import java.util.Locale;
 
 /**
- * @author: wangxy
+ * @author: wizardwxy
  */
 public class ExampleOption {
         private static final String FORMATE_DATE = "yyyy-MM-dd";
